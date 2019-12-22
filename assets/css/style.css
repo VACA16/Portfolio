@@ -1,0 +1,65 @@
+body{
+    margin-top: 0px;
+    background-image: url(../images/5-dots.png);
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    color: antiquewhite;
+    border-bottom: 8px solid #848888;
+    background-color: #343a40!important;
+}
+
+.navbar-brand{
+    background-color: #848888;
+    padding: 10px;
+    margin-left: 14%;
+    font-weight: bolder;
+}
+
+.nav-link{
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+.container{
+    border: 8px solid #848888;
+    background-color: #343a40!important;
+    color: antiquewhite;
+}
+
+.aboutMe{
+    border-bottom: 2px solid #848888;
+}
+
+.bio-pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    background-color: #848888;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 8px solid #848888;
+    background-color: #343a40!important;
+    color: antiquewhite;
+    text-align: center;
+  }
